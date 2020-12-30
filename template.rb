@@ -15,7 +15,7 @@ add_source 'https://rubygems.org'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise'
-gem 'devise-jwt', '~> 0.7.0'
+gem 'devise-jwt', '~> 0.8.0'
 gem 'foreman'
 gem 'jsonapi-rails'
 gem 'pg', '>= 0.18', '< 2.0'
