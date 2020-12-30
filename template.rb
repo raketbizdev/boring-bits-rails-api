@@ -108,8 +108,8 @@ copy_and_replace '.gitignore'
 copy_and_replace 'app/controllers/application_controller.rb'
 copy_and_replace 'app/controllers/registrations_controller.rb'
 copy_and_replace 'app/controllers/sessions_controller.rb'
-copy_and_replace 'app/controllers/api/base_controller.rb'
-copy_and_replace 'app/controllers/api/users_controller.rb'
+copy_and_replace 'app/controllers/api/v1/base_controller.rb'
+copy_and_replace 'app/controllers/api/v1/users_controller.rb'
 
 # Models
 copy_and_replace 'app/models/user.rb'
